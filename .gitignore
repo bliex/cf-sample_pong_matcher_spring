@@ -4,4 +4,5 @@ build
 .idea/tasks.xml
 .idea/workspace.xml
 tags
-target
+target/*
+!target/pong-matcher-spring-1.0.0.BUILD-SNAPSHOT.jar
